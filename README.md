@@ -1,7 +1,3 @@
-python-playground
-=================
-[dirkarnez/python-portable](https://github.com/dirkarnez/python-portable)
-
-### Installing packages
-1. fill in package name with version to `requirements.txt`
-2. `install-package.cmd`
+gdsfactory-playground
+=====================
+[gdsfactory/gdsfactory: A Python library for designing chips (Photonics, Analog, Quantum, MEMS), PCBs, and 3D-printable objects. We aim to make hardware design accessible, intuitive, and fun—empowering everyone to build the future.](https://github.com/gdsfactory/gdsfactory)
